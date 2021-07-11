@@ -3,7 +3,9 @@
 2. We can add new ice cream or update one.
 3. We can add dummy data too.
 4. We can add images of our choice from the phone gallery.
-5. This App uses Sqlite database to store all the data.
+5. Database Used - Sqlite
+6. Developing environment - Android Studio
+7. Language used - Java 
 
 
 ![CatalogActivity](https://user-images.githubusercontent.com/72388313/124899487-cf259a00-dffd-11eb-8624-232e31cd3547.JPG)
